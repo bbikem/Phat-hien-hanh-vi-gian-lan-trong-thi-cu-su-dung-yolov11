@@ -75,38 +75,31 @@ Dưới đây là sơ đồ kiến trúc hệ thống:
 
 
 ## 🚀 Hướng dẫn cài đặt  
-
-
-
 ```sh
 🔹 1️⃣ Clone Repository  
 git clone https://github.com/dung-nguyenn/phat-hien-hanh-vi-gian-lan-trong-thi-cu.git
 cd phat-hien-hanh-vi-gian-lan-trong-thi-cu
+
 🔹 2️⃣ Cài đặt môi trường Python
 Bạn cần Python 3.8+ và pip. Nếu chưa có, hãy cài đặt từ Python.org.
 Sau đó, tạo môi trường ảo (khuyến nghị):
-
-
 python -m venv venv
 source venv/bin/activate  # Trên macOS & Linux
 venv\Scripts\activate     # Trên Windows
-🔹 3️⃣ Cài đặt các thư viện cần thiết
 
+🔹 3️⃣ Cài đặt các thư viện cần thiết
 pip install -r requirements.txt
 Nếu chưa có file requirements.txt, hãy cài đặt thủ công:
-
-
 pip install opencv-python mediapipe numpy pandas tensorflow matplotlib
-🔹 4️⃣ Chạy chương trình phát hiện gian lận
 
+🔹 4️⃣ Chạy chương trình phát hiện gian lận
 python detect_camera.py
 📖 Cách sử dụng
 🔹 Chế độ phát hiện gian lận qua camera
-
 Hệ thống sẽ mở webcam để giám sát thí sinh.
 Nếu phát hiện hành vi đáng ngờ, nó sẽ cảnh báo.
 🔹 Chế độ huấn luyện mô hình
 Nếu muốn huấn luyện lại AI với dữ liệu mới, chạy:
-
 python train.py
+
 📌 Lưu ý: Hệ thống yêu cầu webcam để hoạt động. Nếu sử dụng trên server không có camera, hãy dùng video làm đầu vào.
