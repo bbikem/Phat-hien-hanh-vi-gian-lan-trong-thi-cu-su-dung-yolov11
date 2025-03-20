@@ -38,7 +38,7 @@
 
 ---
 
-📊 Quy trình phát hiện gian lận
+## 📊 Quy trình phát hiện gian lận
 Hệ thống phát hiện gian lận trong thi cử sử dụng YOLOv11, với các bước chính như sau:
 
 1️⃣ S0: Input – Nhận video đầu vào từ camera giám sát lớp học.
@@ -50,6 +50,8 @@ Hệ thống phát hiện gian lận trong thi cử sử dụng YOLOv11, với c
 4️⃣ S3: Alert System – Cảnh báo gian lận theo thời gian thực.
 
 5️⃣ S4: Evidence Logging – Lưu trữ bằng chứng và xuất báo cáo.
+
+## Sơ đồ hệ thống
 
 ![image](https://github.com/user-attachments/assets/afaca065-ed5c-4acb-b5b5-4eed9f0a14cd)
 
