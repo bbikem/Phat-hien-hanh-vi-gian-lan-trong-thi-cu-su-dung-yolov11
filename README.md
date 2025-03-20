@@ -86,27 +86,19 @@ cd phat-hien-hanh-vi-gian-lan-trong-thi-cu
 Bạn cần Python 3.8+ và pip. Nếu chưa có, hãy cài đặt từ Python.org.
 Sau đó, tạo môi trường ảo (khuyến nghị):
 
-sh
-Sao chép
-Chỉnh sửa
+
 python -m venv venv
 source venv/bin/activate  # Trên macOS & Linux
 venv\Scripts\activate     # Trên Windows
 🔹 3️⃣ Cài đặt các thư viện cần thiết
-sh
-Sao chép
-Chỉnh sửa
+
 pip install -r requirements.txt
 Nếu chưa có file requirements.txt, hãy cài đặt thủ công:
 
-sh
-Sao chép
-Chỉnh sửa
+
 pip install opencv-python mediapipe numpy pandas tensorflow matplotlib
 🔹 4️⃣ Chạy chương trình phát hiện gian lận
-sh
-Sao chép
-Chỉnh sửa
+
 python detect_camera.py
 📖 Cách sử dụng
 🔹 Chế độ phát hiện gian lận qua camera
@@ -116,8 +108,5 @@ Nếu phát hiện hành vi đáng ngờ, nó sẽ cảnh báo.
 🔹 Chế độ huấn luyện mô hình
 Nếu muốn huấn luyện lại AI với dữ liệu mới, chạy:
 
-sh
-Sao chép
-Chỉnh sửa
 python train.py
 📌 Lưu ý: Hệ thống yêu cầu webcam để hoạt động. Nếu sử dụng trên server không có camera, hãy dùng video làm đầu vào.
