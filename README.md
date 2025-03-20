@@ -67,10 +67,9 @@ Hệ thống phát hiện gian lận được triển khai với các thành ph�
 
 4️⃣ **Màn hình giám sát** – Hiển thị cảnh báo, thống kê và báo cáo.  
 
-![image](https://github.com/user-attachments/assets/4183be86-6662-47ac-bc35-346b43419743)
-
-
 Dưới đây là sơ đồ kiến trúc hệ thống:  
+
+![image](https://github.com/user-attachments/assets/4183be86-6662-47ac-bc35-346b43419743)
 
 
 ## 🚀 Hướng dẫn cài đặt  
