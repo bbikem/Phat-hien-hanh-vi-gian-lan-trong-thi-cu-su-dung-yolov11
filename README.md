@@ -157,7 +157,7 @@ Hệ thống phát hiện gian lận sử dụng YOLOv11 giúp giám sát thi c�
 
 ## 📰 Poster
 <p align="center">
-  <img src="images/PosterGroup09.png" alt="System Architecture" width="800"/>
+  <img src="PosterGroup09.png" alt="System Architecture" width="800"/>
 </p>
 
 ## 🤝 Đóng góp
