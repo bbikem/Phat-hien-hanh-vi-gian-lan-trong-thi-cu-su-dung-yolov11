@@ -157,3 +157,9 @@ python report_generator.py --log logs/cheating_log.csv
 ## 🔮 Kết luận
 Hệ thống phát hiện gian lận sử dụng YOLOv11 giúp giám sát thi cử hiệu quả, đảm bảo tính công bằng. Có thể mở rộng bằng nhận diện khuôn mặt hoặc phân tích âm thanh để cải thiện khả năng phát hiện.
 
+## 📰 Poster
+<p align="center">
+  <img src="images/PosterNhom1.png" alt="System Architecture" width="800"/>
+</p>
+
+© AIOT 2025 NHÓM 09, CNTT16-05, TRƯỜNG ĐẠI HỌC ĐẠI NAM
