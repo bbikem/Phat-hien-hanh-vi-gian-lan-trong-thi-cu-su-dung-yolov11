@@ -57,7 +57,4 @@ Hệ thống phát hiện gian lận trong thi cử sử dụng YOLOv11, với c
 
 ---
 
-## 📡 Kiến trúc hposter.jpg" alt="System Architecture" width="800"/>
-</p>
 
-© AIOT 2025 NHÓM 09, CNTT16-05, TRƯỜNG ĐẠI HỌC ĐẠI NAM
