@@ -103,6 +103,7 @@ Nếu muốn huấn luyện lại AI với dữ liệu mới, chạy:
 python train.py
 
 📌 Lưu ý: Hệ thống yêu cầu webcam để hoạt động. Nếu sử dụng trên server không có camera, hãy dùng video làm đầu vào.
+```
 
 ## 🎥 Hướng dẫn sử dụng
 
